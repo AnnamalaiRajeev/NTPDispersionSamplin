@@ -1,6 +1,6 @@
 # Authors
 	/*
-# Authors : [rajeev.chinnikanu@colorado.edu, srsh9018@colorado.edu ]
+# Authors : [rajeev.chinnikanu@colorado.edu]
 # Name   : Programming Assignment 1.
 # Purpose: UDPServer
 # Date   : Feb2020
